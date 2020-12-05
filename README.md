@@ -1,4 +1,4 @@
-# CS-Assignmetn-3
+# CS-Assignment-3
 These programs are assignments and are based on various topics of C programming. The contents are as follows :-
 1. Write a C program to find power of a number using for loop. 
 2. Write a C program to find all factors of a number. 
