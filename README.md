@@ -16,3 +16,5 @@ Percentage >= 70% : Grade C
 Percentage >= 60% : Grade D 
 Percentage >= 40% : Grade E 
 Percentage <  40% : Grade F
+
+To execute these programs, you can use any legitimate C compiler. (Eg; VSCODE, Programiz, GDB Online complier, etc.).
