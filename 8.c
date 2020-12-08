@@ -13,7 +13,7 @@ void main()
         long dec;
         printf("HEXADECIMAL TO DECIMAL CONVERSION");
         printf("\n\nEnter the Hex Number (case insensitive): ");
-        scanf("%s", &hex_ch);
+        scanf("%s", hex_ch);
         
         for (i=0; i<strlen(hex_ch); i++)
             {               
